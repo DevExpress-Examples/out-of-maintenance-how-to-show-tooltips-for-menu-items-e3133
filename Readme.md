@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.cs](./VB/WindowsApplication1/Form1.cs))
+* [Program.cs](./CS/WindowsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsApplication1/Program.vb))
+* [ToolTipHelper.cs](./CS/WindowsApplication1/ToolTipHelper.cs) (VB: [ToolTipHelper.vb](./VB/WindowsApplication1/ToolTipHelper.vb))
+<!-- default file list end -->
 # How to show tooltips for menu items
 
 
